@@ -8,6 +8,9 @@ mixedList = ["maçã", 1, "pêra", True] # list of mixed variable types
 print("Lets print a list:")
 print(stringsList)
 
+# Lets print the type of the list
+print(type(stringsList))
+
 # the values stored in a list are called elements.
 # We can get elements from a list by indexing:
 # INDEXING STARTS FROM 0. ALWAYS
