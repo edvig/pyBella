@@ -6,7 +6,7 @@ Python exercises for Bella
 - variable types
 - import & use a package
 - create random values
-- modolus (% - odd/even) 
+- modulus (% - odd/even) 
 - if statement (conditional statements)
 ## Class 2
 - revision of Class1

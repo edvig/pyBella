@@ -16,8 +16,3 @@ if(randomVariable % 2 == 1):
     print("The number is odd.")
 else:
     print("The number is even.")
-
-
-asd = 1 == 1
-print(asd)
-print(type(asd))
