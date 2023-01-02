@@ -13,3 +13,10 @@ Python exercises for Bella
 - lists
 - operations on lists and elements
 - strings as lists of characters
+## Class 3
+- revision of Class2
+- getting the last item of a list (easier way)
+- check if item exists in a list
+- sort a list
+- loop through a list
+- change items in list
